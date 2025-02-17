@@ -15,7 +15,7 @@ This will be my first game jam and first time creating something with a such a s
 
 ### Monday
 
-- [ ] Set up Unity envirement and get it synced with GitHub
+- [ ] Set up Unity environment and get it synced with GitHub
 - [ ] Come up with how I want to incorporate the theme into my game
 - [ ] Figure out the core gameplay loop
 - [ ] Brainstorm supplementary gameplay elements
@@ -35,6 +35,6 @@ This will be my first game jam and first time creating something with a such a s
 - [ ] Last minute polish
 - [ ] Upload game to itch.io!
 
-I'll be updating this file to check things off as I complete them as well as uploading logs to a seperate folfer for each day of the jam to documents my success and failures along the way!
+I'll be updating this file to check things off as I complete them as well as uploading logs to a seperate folder for each day of the jam to documents my success and failures along the way!
 
 
