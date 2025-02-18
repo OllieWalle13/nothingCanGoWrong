@@ -15,10 +15,10 @@ This will be my first game jam and first time creating something with a such a s
 
 ### Monday
 
-- [ ] Set up Unity environment and get it synced with GitHub
-- [ ] Come up with how I want to incorporate the theme into my game
-- [ ] Figure out the core gameplay loop
-- [ ] Brainstorm supplementary gameplay elements
+- [x] Set up Unity environment and get it synced with GitHub
+- [x] Come up with how I want to incorporate the theme into my game
+- [x] Figure out the core gameplay loop
+- [x] Brainstorm supplementary gameplay elements
 - [ ] Organize all of my ideas based on what's needed, what would be nice, and what's not a priority
 
 ### Tuesday - Friday
