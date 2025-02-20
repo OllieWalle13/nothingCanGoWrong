@@ -101,6 +101,10 @@ public class TopDownCarController : MonoBehaviour {
 		return Vector2.Dot(transform.right, carRigidbody2D.linearVelocity);
 	}
 
+	public float GetVelocityMagnitude() {
+		return carRigidbody2D.linearVelocity.magnitude;
+	}
+
 	public bool IsTireScreeching(out float lateralVelocity, out bool isBraking) {
 		lateralVelocity = GetLateralVelocity();
 		isBraking = false;
