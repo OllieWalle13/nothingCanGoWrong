@@ -1,3 +1,5 @@
+[You can play the game here!](https://olliewalle.itch.io/autocross-finals)
+
 # Nothing can go wrong...
 ...is the the theme for [Brackey's Game Jam 2025.1!](https://itch.io/jam/brackeys-13) This will be my first time touching Unity since college and my first time using GitHub for version control and documentation purposes. As I'm a bit rusty, I'm not expecting to do anything crazy but I have a few goals in mind.
 
