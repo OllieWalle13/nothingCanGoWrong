@@ -1,11 +1,11 @@
 # Nothing can go wrong...
 ...is the the theme for [Brackey's Game Jam 2025.1!](https://itch.io/jam/brackeys-13) This will be my first time touching Unity since college and my first time using GitHub for version control and documentation purposes. As I'm a bit rusty, I'm not expecting to do anything crazy but I have a few goals in mind.
 
-- [ ] **Make a playable game**
-- [ ] **Have my submission ready in time**
+- [x] **Make a playable game**
+- [x] **Have my submission ready in time**
 - [ ] Create some sort of tutorial
 - [ ] At least 5 levels
-- [ ] Perform some level of playtesting
+- [x] Perform some level of playtesting
 
 I believe all of these goals are achievable but my priority will be the first two with everything else taking a backseat if needed.
 
